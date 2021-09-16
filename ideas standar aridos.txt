@@ -1,0 +1,139 @@
+ponerle imagenes de colores para la seccion de colores
+
+ponerle con angular un input para elegir color que se necesite a eleccion
+
+ <h3 class="colorUno"></h3><p>Verde Manzana</p>
+                    <h3 class="colorDos"></h3><p>Violeta</p>
+                    <h3 class="colorTres"></h3><p>Naranja</p>
+                    <h3 class="colorCuatro"></h3><p>Magenta</p>
+                    <h3 class="colorCinco"></h3><p>Coral</p>
+                    <h3 class="colorSeis"></h3><p>Turquesa</p>
+                    <h3 class="colorSiete"></h3><p>Beige</p>
+                    <h3 class="colorOcho"></h3><p>Lila</p>
+                    <h3 class="colorNueve"></h3><p>Gris Topo</p>
+                    <h3 class="colorDiez"></h3><p>Rosa</p>
+                    <h3 class="colorOnce"></h3><p>Azul Petróleo</p>
+                    <h3 class="colorDoce"></h3><p>Salmón Rosado</p>
+                    <h3 class="colorTrece"></h3><p>Azul Capri</p>
+                    <h3 class="colorCatorce"></h3><p>Amarillo Limón</p>
+                    <h3 class="colorQuince"></h3><p>Gris Helado</p>
+                    <h3 class="colorDieciseis"></h3><p>Azul 
+
+
+<div id="colores" class="mostrarLista">
+      
+                <div class="listacolores">
+                    <h3 class="colorUno"></h3><p>Verde Manzana</p>
+                    <h3 class="colorDos"></h3><p>Violeta</p>
+                    <h3 class="colorTres"></h3><p>Naranja</p>
+                    <h3 class="colorCuatro"></h3><p>Magenta</p>
+                    <h3 class="colorCinco"></h3><p>Coral</p>
+                    <h3 class="colorSeis"></h3><p>Turquesa</p>
+                    <h3 class="colorSiete"></h3><p>Beige</p>
+                    <h3 class="colorOcho"></h3><p>Lila</p>
+                    <h3 class="colorNueve"></h3><p>Gris Topo</p>
+                    <h3 class="colorDiez"></h3><p>Rosa</p>
+                    <h3 class="colorOnce"></h3><p>Azul Petróleo</p>
+                    <h3 class="colorDoce"></h3><p>Salmón Rosado</p>
+                    <h3 class="colorTrece"></h3><p>Azul Capri</p>
+                    <h3 class="colorCatorce"></h3><p>Amarillo Limón</p>
+                    <h3 class="colorQuince"></h3><p>Gris Helado</p>
+                    <h3 class="colorDieciseis"></h3><p>Azul Maya</p>
+                </div>
+
+revear
+
+
+
+
+
+
+
+
+
+ideas segun tio y agus.
+
+PAGINA PARA COMPRAR DIRECTAMENTE.
+
+1) funcionalidad de pagina
+
+-eleccion para envio y productos
+
+inico
+productos
+(HACERLE DESPLEGABLE CLASE DE PRODUCTOS) MENOS ESPACIADO ENTRE PRODUCTOS
+quienes somos
+buscador
+contacto
+
+
+2) diseño
+
+banner principal
+
+colores: negro, blanco, violeta, rojo.
+
+
+BANNER: 
+3 imagenes 
+
+SECCION DE PRODUCTOS (5) --->con efecto hover (scale)
+ revestimientos, preparacion de superficie, latex color, auxiliares, membrana, nosotros.
+
+revestimientos: menu
+                        banner, 
+                        fotos de baldes, 2 productos variables.
+                        info ficha tecnica.
+                        cada color de revestimiento con efecto hover (scale),
+                        productos relacionados (auxiliares, etc)
+	        footer
+                        
+preparacion de superficie: menu,
+                                        fotos de baldes cada producto,
+                                        info ficha tecnica invidual para productos (javascript) agregarle boton de ficha tecnica para que lo vea.
+                                        footer.
+                                        
+                                        
+
+latex color: menu,
+                 banner,
+                 ficha tecnica,
+                 colores
+                 productos relacionados (auxiliares, etc).
+                 footer
+
+auxiliares: menu
+                titulo: herramientas de trabajo
+                productos: fotos
+                footer.        
+
+nosotros: (es la descripcion con las 2 fotos cambiantes en la landing page.).
+
+membranas: menu,
+                                       
+
+
+
+(PENSAR LUGARES DE DESTINO DE CADA UNO DE ESAS) 
+
+SECCION DESCRIPCION:
+-titulo
+-texto
+-2 imagenes cambiantes.
+footer.
+
+
+
+
+
+
+
+
+
+
+A MEJORAR: 
+
+letras de titutlos de productos en landing (de violeta a negro).
+acomodar esas imagenes.
+cambiar imagen 1 de banner en landing.
+arreglar el js de los tachos en ficha tecnica que no se ocultan.
